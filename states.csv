@@ -1,0 +1,67 @@
+Possession,Abbreviation,StateFIPS,PresidentialVoting,CensusName
+Alabama,AL,1,1,ALABAMA
+Alaska,AK,2,1,ALASKA
+American Samoa,AS,60,0,
+Arizona,AZ,4,1,ARIZONA
+Arkansas,AR,5,1,ARKANSAS
+Baker Island,BI,81,0,
+California,CA,6,1,CALIFORNIA
+Colorado,CO,8,1,COLORADO
+Connecticut,CT,9,1,CONNECTICUT
+Delaware,DE,10,1,DELAWARE
+District of Columbia,DC,11,1,DISTRICT_OF_COLUMBIA
+Florida,FL,12,1,FLORIDA
+Federated States of Micronesia,FM,64,0,
+Georgia,GA,13,1,GEORGIA
+Guam,GU,66,0,
+Hawaii,HI,15,1,HAWAII
+Howland Island,HI,84,0,
+Idaho,ID,16,1,IDAHO
+Illinois,IL,17,1,ILLINOIS
+Indiana,IN,18,1,INDIANA
+Iowa,IA,19,1,IOWA
+Jarvis Island,JI,86,0,
+Johnston Atoll,JA,67,0,
+Kansas,KS,20,1,KANSAS
+Kentucky,KY,21,1,KENTUCKY
+Kingman Reef,KR,89,0,
+Louisiana,LA,22,1,LOUISANA
+Maine,ME,23,1,MAINE
+Marshall Islands,MH,68,0,
+Maryland,MD,24,1,MARYLAND
+Massachusetts,MA,25,1,MASSACHUSETTS
+Michigan,MI,26,1,MICHIGAN
+Minnesota,MN,27,1,MINNESOTA
+Mississippi,MS,28,1,MISSISSIPPI
+Missouri,MO,29,1,MISSOURI
+Montana,MT,30,1,MONTANA
+Navassa Island,NI,76,0,
+Nebraska,NE,31,1,NEBRASKA
+Nevada,NV,32,1,NEVADA
+New Hampshire,NH,33,1,NEW_HAMPSHIRE
+New Jersey,NJ,34,1,NEW_JERSEY
+New Mexico,NM,35,1,NEW_MEXICO
+New York,NY,36,1,NEW_YORK
+North Carolina,NC,37,1,NORTH_CAROLINA
+North Dakota,ND,38,1,NORTH_DAKOTA
+Northern Mariana Islands,MP,69,0,
+Ohio,OH,39,1,OHIO
+Oklahoma,OK,40,1,OKLAHOMA
+Oregon,OR,41,1,OREGON
+Palau,PW,70,0,
+Pennsylvania,PA,42,1,PENNSYLVANIA
+Puerto Rico,PR,72,0,PUERTO_RICO
+Rhode Island,RI,44,1,RHODE_ISLAND
+South Carolina,SC,45,1,SOUTH_CAROLINA
+South Dakota,SD,46,1,SOUTH_DAKOTA
+Tennessee,TN,47,1,TENNESSEE
+Texas,TX,48,1,TEXAS
+U.S. Minor Outlying Islands,UM,74,0,
+Utah,UT,49,1,UTAH
+Vermont,VT,50,1,VERMONT
+Virginia,VA,51,1,VIRGINIA
+Virgin Islands of the U.S.,VI,78,0,
+Washington,WA,53,1,WASHINGTON
+West Virginia,WV,54,1,WEST_VIRGINIA
+Wisconsin,WI,55,1,WISCONSIN
+Wyoming,WY,56,1,WYOMING
