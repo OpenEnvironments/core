@@ -1,0 +1,12 @@
+Name,Abbreviation
+States,STATE
+Counties,COUNTY
+County Subdivisions,CCD
+State Legislative Districts - Upper,SLDU
+State Legislative Districts - Lower,SLDL
+Combined Statistical Areas,CSA
+Census Tracts,TRACT
+Census Blocks,BLOCK
+Congressional Districts,CONG
+Incorporated Places,INCP
+Census Designated Places,CDP
