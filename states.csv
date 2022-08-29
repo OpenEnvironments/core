@@ -1,67 +1,67 @@
-Possession,Abbreviation,StateFIPS,PresidentialVoting,CensusName
-Alabama,AL,1,1,ALABAMA
-Alaska,AK,2,1,ALASKA
-American Samoa,AS,60,0,
-Arizona,AZ,4,1,ARIZONA
-Arkansas,AR,5,1,ARKANSAS
-Baker Island,BI,81,0,
-California,CA,6,1,CALIFORNIA
-Colorado,CO,8,1,COLORADO
-Connecticut,CT,9,1,CONNECTICUT
-Delaware,DE,10,1,DELAWARE
-District of Columbia,DC,11,1,DISTRICT_OF_COLUMBIA
-Florida,FL,12,1,FLORIDA
-Federated States of Micronesia,FM,64,0,
-Georgia,GA,13,1,GEORGIA
-Guam,GU,66,0,
-Hawaii,HI,15,1,HAWAII
-Howland Island,HI,84,0,
-Idaho,ID,16,1,IDAHO
-Illinois,IL,17,1,ILLINOIS
-Indiana,IN,18,1,INDIANA
-Iowa,IA,19,1,IOWA
-Jarvis Island,JI,86,0,
-Johnston Atoll,JA,67,0,
-Kansas,KS,20,1,KANSAS
-Kentucky,KY,21,1,KENTUCKY
-Kingman Reef,KR,89,0,
-Louisiana,LA,22,1,LOUISANA
-Maine,ME,23,1,MAINE
-Marshall Islands,MH,68,0,
-Maryland,MD,24,1,MARYLAND
-Massachusetts,MA,25,1,MASSACHUSETTS
-Michigan,MI,26,1,MICHIGAN
-Minnesota,MN,27,1,MINNESOTA
-Mississippi,MS,28,1,MISSISSIPPI
-Missouri,MO,29,1,MISSOURI
-Montana,MT,30,1,MONTANA
-Navassa Island,NI,76,0,
-Nebraska,NE,31,1,NEBRASKA
-Nevada,NV,32,1,NEVADA
-New Hampshire,NH,33,1,NEW_HAMPSHIRE
-New Jersey,NJ,34,1,NEW_JERSEY
-New Mexico,NM,35,1,NEW_MEXICO
-New York,NY,36,1,NEW_YORK
-North Carolina,NC,37,1,NORTH_CAROLINA
-North Dakota,ND,38,1,NORTH_DAKOTA
-Northern Mariana Islands,MP,69,0,
-Ohio,OH,39,1,OHIO
-Oklahoma,OK,40,1,OKLAHOMA
-Oregon,OR,41,1,OREGON
-Palau,PW,70,0,
-Pennsylvania,PA,42,1,PENNSYLVANIA
-Puerto Rico,PR,72,0,PUERTO_RICO
-Rhode Island,RI,44,1,RHODE_ISLAND
-South Carolina,SC,45,1,SOUTH_CAROLINA
-South Dakota,SD,46,1,SOUTH_DAKOTA
-Tennessee,TN,47,1,TENNESSEE
-Texas,TX,48,1,TEXAS
-U.S. Minor Outlying Islands,UM,74,0,
-Utah,UT,49,1,UTAH
-Vermont,VT,50,1,VERMONT
-Virginia,VA,51,1,VIRGINIA
-Virgin Islands of the U.S.,VI,78,0,
-Washington,WA,53,1,WASHINGTON
-West Virginia,WV,54,1,WEST_VIRGINIA
-Wisconsin,WI,55,1,WISCONSIN
-Wyoming,WY,56,1,WYOMING
+Possession,Abbreviation,StateFIPS,PresidentialVoting,CensusName,CensusRegion,CensusDivision
+Alaska,AK,2,1,ALASKA,West,Pacific
+Alabama,AL,1,1,ALABAMA,South,East South Central
+Arkansas,AR,5,1,ARKANSAS,South,West South Central
+American Samoa,AS,60,0,,,
+Arizona,AZ,4,1,ARIZONA,West,Mountain
+Baker Island,BI,81,0,,,
+California,CA,6,1,CALIFORNIA,West,Pacific
+Colorado,CO,8,1,COLORADO,West,Mountain
+Connecticut,CT,9,1,CONNECTICUT,Northeast,New England
+District of Columbia,DC,11,1,DISTRICT_OF_COLUMBIA,South,South Atlantic
+Delaware,DE,10,1,DELAWARE,South,South Atlantic
+Florida,FL,12,1,FLORIDA,South,South Atlantic
+Federated States of Micronesia,FM,64,0,,,
+Georgia,GA,13,1,GEORGIA,South,South Atlantic
+Guam,GU,66,0,,,
+Hawaii,HI,15,1,HAWAII,West,Pacific
+Howland Island,HI,84,0,,West,Pacific
+Iowa,IA,19,1,IOWA,Midwest,West North Central
+Idaho,ID,16,1,IDAHO,West,Mountain
+Illinois,IL,17,1,ILLINOIS,Midwest,East North Central
+Indiana,IN,18,1,INDIANA,Midwest,East North Central
+Johnston Atoll,JA,67,0,,,
+Jarvis Island,JI,86,0,,,
+Kingman Reef,KR,89,0,,,
+Kansas,KS,20,1,KANSAS,Midwest,West North Central
+Kentucky,KY,21,1,KENTUCKY,South,East South Central
+Louisiana,LA,22,1,LOUISANA,South,West South Central
+Massachusetts,MA,25,1,MASSACHUSETTS,Northeast,New England
+Maryland,MD,24,1,MARYLAND,South,South Atlantic
+Maine,ME,23,1,MAINE,Northeast,New England
+Marshall Islands,MH,68,0,,,
+Michigan,MI,26,1,MICHIGAN,Midwest,East North Central
+Minnesota,MN,27,1,MINNESOTA,Midwest,West North Central
+Missouri,MO,29,1,MISSOURI,Midwest,West North Central
+Northern Mariana Islands,MP,69,0,,,
+Mississippi,MS,28,1,MISSISSIPPI,South,East South Central
+Montana,MT,30,1,MONTANA,West,Mountain
+North Carolina,NC,37,1,NORTH_CAROLINA,South,South Atlantic
+North Dakota,ND,38,1,NORTH_DAKOTA,Midwest,West North Central
+Nebraska,NE,31,1,NEBRASKA,Midwest,West North Central
+New Hampshire,NH,33,1,NEW_HAMPSHIRE,Northeast,New England
+Navassa Island,NI,76,0,,,
+New Jersey,NJ,34,1,NEW_JERSEY,Northeast,Middle Atlantic
+New Mexico,NM,35,1,NEW_MEXICO,West,Mountain
+Nevada,NV,32,1,NEVADA,West,Mountain
+New York,NY,36,1,NEW_YORK,Northeast,Middle Atlantic
+Ohio,OH,39,1,OHIO,Midwest,East North Central
+Oklahoma,OK,40,1,OKLAHOMA,South,West South Central
+Oregon,OR,41,1,OREGON,West,Pacific
+Pennsylvania,PA,42,1,PENNSYLVANIA,Northeast,Middle Atlantic
+Puerto Rico,PR,72,0,PUERTO_RICO,,
+Palau,PW,70,0,,,
+Rhode Island,RI,44,1,RHODE_ISLAND,Northeast,New England
+South Carolina,SC,45,1,SOUTH_CAROLINA,South,South Atlantic
+South Dakota,SD,46,1,SOUTH_DAKOTA,Midwest,West North Central
+Tennessee,TN,47,1,TENNESSEE,South,East South Central
+Texas,TX,48,1,TEXAS,South,West South Central
+U.S. Minor Outlying Islands,UM,74,0,,,
+Utah,UT,49,1,UTAH,West,Mountain
+Virginia,VA,51,1,VIRGINIA,South,South Atlantic
+Virgin Islands of the U.S.,VI,78,0,,,
+Vermont,VT,50,1,VERMONT,Northeast,New England
+Washington,WA,53,1,WASHINGTON,West,Pacific
+Wisconsin,WI,55,1,WISCONSIN,Midwest,East North Central
+West Virginia,WV,54,1,WEST_VIRGINIA,South,South Atlantic
+Wyoming,WY,56,1,WYOMING,West,Mountain
