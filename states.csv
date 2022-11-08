@@ -1,67 +1,67 @@
-Possession,Abbreviation,StateFIPS,PresidentialVoting,CensusName,CensusRegionName,CensusDivisionName,CensusRegionCode,CensusDivisionCode
-Alaska,AK,2,1,ALASKA,West,Pacific,4,9
-Alabama,AL,1,1,ALABAMA,South,East South Central,3,6
-Arkansas,AR,5,1,ARKANSAS,South,West South Central,3,7
-American Samoa,AS,60,0,,,,,
-Arizona,AZ,4,1,ARIZONA,West,Mountain,4,8
-Baker Island,BI,81,0,,,,,
-California,CA,6,1,CALIFORNIA,West,Pacific,4,9
-Colorado,CO,8,1,COLORADO,West,Mountain,4,8
-Connecticut,CT,9,1,CONNECTICUT,Northeast,New England,1,1
-District of Columbia,DC,11,1,DISTRICT_OF_COLUMBIA,South,South Atlantic,3,5
-Delaware,DE,10,1,DELAWARE,South,South Atlantic,3,5
-Florida,FL,12,1,FLORIDA,South,South Atlantic,3,5
-Federated States of Micronesia,FM,64,0,,,,,
-Georgia,GA,13,1,GEORGIA,South,South Atlantic,3,5
-Guam,GU,66,0,,,,,
-Hawaii,HI,15,1,HAWAII,West,Pacific,4,9
-Howland Island,HI,84,0,,West,Pacific,4,9
-Iowa,IA,19,1,IOWA,Midwest,West North Central,2,4
-Idaho,ID,16,1,IDAHO,West,Mountain,4,8
-Illinois,IL,17,1,ILLINOIS,Midwest,East North Central,2,3
-Indiana,IN,18,1,INDIANA,Midwest,East North Central,2,3
-Johnston Atoll,JA,67,0,,,,,
-Jarvis Island,JI,86,0,,,,,
-Kingman Reef,KR,89,0,,,,,
-Kansas,KS,20,1,KANSAS,Midwest,West North Central,2,4
-Kentucky,KY,21,1,KENTUCKY,South,East South Central,3,6
-Louisiana,LA,22,1,LOUISANA,South,West South Central,3,7
-Massachusetts,MA,25,1,MASSACHUSETTS,Northeast,New England,1,1
-Maryland,MD,24,1,MARYLAND,South,South Atlantic,3,5
-Maine,ME,23,1,MAINE,Northeast,New England,1,1
-Marshall Islands,MH,68,0,,,,,
-Michigan,MI,26,1,MICHIGAN,Midwest,East North Central,2,3
-Minnesota,MN,27,1,MINNESOTA,Midwest,West North Central,2,4
-Missouri,MO,29,1,MISSOURI,Midwest,West North Central,2,4
-Northern Mariana Islands,MP,69,0,,,,,
-Mississippi,MS,28,1,MISSISSIPPI,South,East South Central,3,6
-Montana,MT,30,1,MONTANA,West,Mountain,4,8
-North Carolina,NC,37,1,NORTH_CAROLINA,South,South Atlantic,3,5
-North Dakota,ND,38,1,NORTH_DAKOTA,Midwest,West North Central,2,4
-Nebraska,NE,31,1,NEBRASKA,Midwest,West North Central,2,4
-New Hampshire,NH,33,1,NEW_HAMPSHIRE,Northeast,New England,1,1
-Navassa Island,NI,76,0,,,,,
-New Jersey,NJ,34,1,NEW_JERSEY,Northeast,Middle Atlantic,1,2
-New Mexico,NM,35,1,NEW_MEXICO,West,Mountain,4,8
-Nevada,NV,32,1,NEVADA,West,Mountain,4,8
-New York,NY,36,1,NEW_YORK,Northeast,Middle Atlantic,1,2
-Ohio,OH,39,1,OHIO,Midwest,East North Central,2,3
-Oklahoma,OK,40,1,OKLAHOMA,South,West South Central,3,7
-Oregon,OR,41,1,OREGON,West,Pacific,4,9
-Pennsylvania,PA,42,1,PENNSYLVANIA,Northeast,Middle Atlantic,1,2
-Puerto Rico,PR,72,0,PUERTO_RICO,,,,
-Palau,PW,70,0,,,,,
-Rhode Island,RI,44,1,RHODE_ISLAND,Northeast,New England,1,1
-South Carolina,SC,45,1,SOUTH_CAROLINA,South,South Atlantic,3,5
-South Dakota,SD,46,1,SOUTH_DAKOTA,Midwest,West North Central,2,4
-Tennessee,TN,47,1,TENNESSEE,South,East South Central,3,6
-Texas,TX,48,1,TEXAS,South,West South Central,3,7
-U.S. Minor Outlying Islands,UM,74,0,,,,,
-Utah,UT,49,1,UTAH,West,Mountain,4,8
-Virginia,VA,51,1,VIRGINIA,South,South Atlantic,3,5
-Virgin Islands of the U.S.,VI,78,0,,,,,
-Vermont,VT,50,1,VERMONT,Northeast,New England,1,1
-Washington,WA,53,1,WASHINGTON,West,Pacific,4,9
-Wisconsin,WI,55,1,WISCONSIN,Midwest,East North Central,2,3
-West Virginia,WV,54,1,WEST_VIRGINIA,South,South Atlantic,3,5
-Wyoming,WY,56,1,WYOMING,West,Mountain,4,8
+Possession,Abbreviation,StateFIPS,PresidentialVoting,CensusName,CensusRegionName,CensusDivisionName,CensusRegionCode,CensusDivisionCode,Population,SqMiles,Density
+Alabama,AL,1,1,ALABAMA,South,East South Central,3,6,5024279,50645,99.20582486
+Alaska,AK,2,1,ALASKA,West,Pacific,4,9,733391,570641,1.285205585
+Arizona,AZ,4,1,ARIZONA,West,Mountain,4,8,7151502,113594,62.95668785
+Arkansas,AR,5,1,ARKANSAS,South,West South Central,3,7,3011524,52035,57.87496877
+California,CA,6,1,CALIFORNIA,West,Pacific,4,9,39538223,"155,959[4]",#VALUE!
+Colorado,CO,8,1,COLORADO,West,Mountain,4,8,5773714,103642,55.70824569
+Connecticut,CT,9,1,CONNECTICUT,Northeast,New England,1,1,3605944,4842,744.7220157
+Delaware,DE,10,1,DELAWARE,South,South Atlantic,3,5,989948,1949,507.926116
+District of Columbia,DC,11,1,DISTRICT_OF_COLUMBIA,South,South Atlantic,3,5,689545,61,11304.01639
+Florida,FL,12,1,FLORIDA,South,South Atlantic,3,5,21538187,53625,401.6445128
+Georgia,GA,13,1,GEORGIA,South,South Atlantic,3,5,10214860,57513,177.6095839
+Hawaii,HI,15,1,HAWAII,West,Pacific,4,9,1455271,6423,226.5718512
+Idaho,ID,16,1,IDAHO,West,Mountain,4,8,1839106,82643,22.253621
+Illinois,IL,17,1,ILLINOIS,Midwest,East North Central,2,3,12812508,55519,230.7769953
+Indiana,IN,18,1,INDIANA,Midwest,East North Central,2,3,6785528,35826,189.4023335
+Iowa,IA,19,1,IOWA,Midwest,West North Central,2,4,3190369,55857,57.11672664
+Kansas,KS,20,1,KANSAS,Midwest,West North Central,2,4,2937880,81759,35.93341406
+Kentucky,KY,21,1,KENTUCKY,South,East South Central,3,6,4505836,39486,114.1122423
+Louisiana,LA,22,1,LOUISANA,South,West South Central,3,7,4657757,43204,107.8084668
+Maine,ME,23,1,MAINE,Northeast,New England,1,1,1363359,30843,44.20319035
+Maryland,MD,24,1,MARYLAND,South,South Atlantic,3,5,6177224,9707,636.3679819
+Massachusetts,MA,25,1,MASSACHUSETTS,Northeast,New England,1,1,7029917,7800,901.2714103
+Michigan,MI,26,1,MICHIGAN,Midwest,East North Central,2,3,10077331,56539,178.23681
+Minnesota,MN,27,1,MINNESOTA,Midwest,West North Central,2,4,5706494,79627,71.66531453
+Mississippi,MS,28,1,MISSISSIPPI,South,East South Central,3,6,2961279,46923,63.10932805
+Missouri,MO,29,1,MISSOURI,Midwest,West North Central,2,4,6154913,68742,89.53642606
+Montana,MT,30,1,MONTANA,West,Mountain,4,8,1084225,145546,7.449363088
+Nebraska,NE,31,1,NEBRASKA,Midwest,West North Central,2,4,1961504,76824,25.53243778
+Nevada,NV,32,1,NEVADA,West,Mountain,4,8,3104614,109781,28.28006668
+New Hampshire,NH,33,1,NEW_HAMPSHIRE,Northeast,New England,1,1,1377529,8953,153.8622808
+New Jersey,NJ,34,1,NEW_JERSEY,Northeast,Middle Atlantic,1,2,9288994,7354,1263.121295
+New Mexico,NM,35,1,NEW_MEXICO,West,Mountain,4,8,2117522,121298,17.45718808
+New York,NY,36,1,NEW_YORK,Northeast,Middle Atlantic,1,2,20201249,47126,428.6646225
+North Carolina,NC,37,1,NORTH_CAROLINA,South,South Atlantic,3,5,10439388,48618,214.7226953
+North Dakota,ND,38,1,NORTH_DAKOTA,Midwest,West North Central,2,4,779094,69001,11.29105375
+Ohio,OH,39,1,OHIO,Midwest,East North Central,2,3,11799448,40861,288.7704168
+Oklahoma,OK,40,1,OKLAHOMA,South,West South Central,3,7,3959353,68595,57.72072308
+Oregon,OR,41,1,OREGON,West,Pacific,4,9,4237256,95988,44.14360128
+Pennsylvania,PA,42,1,PENNSYLVANIA,Northeast,Middle Atlantic,1,2,13002700,44743,290.6085868
+Rhode Island,RI,44,1,RHODE_ISLAND,Northeast,New England,1,1,1097379,1034,1061.294971
+South Carolina,SC,45,1,SOUTH_CAROLINA,South,South Atlantic,3,5,5118425,30061,170.2679552
+South Dakota,SD,46,1,SOUTH_DAKOTA,Midwest,West North Central,2,4,886667,75811,11.69575655
+Tennessee,TN,47,1,TENNESSEE,South,East South Central,3,6,6910840,41235,167.5964593
+Texas,TX,48,1,TEXAS,South,West South Central,3,7,29145505,261232,111.5694287
+Utah,UT,49,1,UTAH,West,Mountain,4,8,3271616,82170,39.81521236
+Vermont,VT,50,1,VERMONT,Northeast,New England,1,1,643077,9217,69.7707497
+Virginia,VA,51,1,VIRGINIA,South,South Atlantic,3,5,8631393,39490,218.5716131
+Washington,WA,53,1,WASHINGTON,West,Pacific,4,9,7705281,66456,115.9456031
+West Virginia,WV,54,1,WEST_VIRGINIA,South,South Atlantic,3,5,1793716,24038,74.6200183
+Wisconsin,WI,55,1,WISCONSIN,Midwest,East North Central,2,3,5893718,54158,108.8245135
+Wyoming,WY,56,1,WYOMING,West,Mountain,4,8,576851,97093,5.941221303
+American Samoa,AS,60,0,,,,,,49710,77,645.5844156
+Federated States of Micronesia,FM,64,0,,,,,,,,
+Guam,GU,66,0,,,,,,153836,210,732.552381
+Johnston Atoll,JA,67,0,,,,,,,,
+Marshall Islands,MH,68,0,,,,,,,,
+Northern Mariana Islands,MP,69,0,,,,,,47329,179,264.4078212
+Palau,PW,70,0,,,,,,,,
+Puerto Rico,PR,72,0,PUERTO_RICO,,,,,3285874,3515,934.8147937
+U.S. Minor Outlying Islands,UM,74,0,,,,,,,,
+Navassa Island,NI,76,0,,,,,,,,
+Virgin Islands of the U.S.,VI,78,0,,,,,,,,
+Baker Island,BI,81,0,,,,,,,,
+Howland Island,UM,84,0,,,,,,,,
+Jarvis Island,JI,86,0,,,,,,,,
+Kingman Reef,KR,89,0,,,,,,,,
